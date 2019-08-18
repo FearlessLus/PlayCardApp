@@ -18,7 +18,7 @@ namespace PlayCardApp
             InitializeComponent();
         }
 
-        private void NewGamePressed(object sender, EventArgs e)
+        private void NewGamePessed(object sender, EventArgs e)
         {
             (sender as Button).Text = "First button pressed";
         }
