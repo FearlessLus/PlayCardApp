@@ -20,7 +20,7 @@ namespace PlayCardApp
 
         private void NewGamePessed(object sender, EventArgs e)
         {
-            (sender as Button).Text = "First change";
+            (sender as Button).Text = "Lets go from here";
         }
 
         private void JoinGamePressed(object sender, EventArgs e)
