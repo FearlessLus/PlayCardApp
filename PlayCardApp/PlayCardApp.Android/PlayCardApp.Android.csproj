@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -100,7 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PlayCardApp\PlayCardApp.csproj">
-      <Project>{99D72F68-B1A5-48D0-B913-E9BA240C3761}</Project>
+      <Project>{14A72E79-B590-4863-BA5C-EC0A52C35D40}</Project>
       <Name>PlayCardApp</Name>
     </ProjectReference>
   </ItemGroup>

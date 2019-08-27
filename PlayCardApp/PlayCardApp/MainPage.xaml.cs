@@ -17,6 +17,7 @@ namespace PlayCardApp
         {
             InitializeComponent();
             // This is from 27/8-19
+            // veriveri fun
         }
 
         private void NewGamePessed(object sender, EventArgs e)
