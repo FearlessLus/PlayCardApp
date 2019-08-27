@@ -16,13 +16,14 @@ namespace PlayCardApp
         public MainPage()
         {
             InitializeComponent();
+            // This is from 27/8-19
         }
 
         private void NewGamePessed(object sender, EventArgs e)
         {
             (sender as Button).Text = "Lets go from here";
         }
-
+        
         private void JoinGamePressed(object sender, EventArgs e)
         {
             (sender as Button).Text = "Second button pressed";
